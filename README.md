@@ -43,7 +43,8 @@ Price Change (24h): 2.5%
 pip install requests
 3️⃣ Run the script:
 python crypto_tracker.py
+```
 
-✨ Author
+## ✨ Author
 Made by Sourabh Patnaik
 Learning Python APIs & CLI tools.
